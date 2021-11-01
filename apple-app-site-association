@@ -1,0 +1,11 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"9DFU33V8T6.com.filmgrail.demo",
+                "paths":["/email-confirmation/"]
+            }
+        ]
+    }
+}
